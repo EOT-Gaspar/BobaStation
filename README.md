@@ -1,4 +1,4 @@
-# BobaStation
+﻿# BobaStation
 
 [![Platform](https://img.shields.io/badge/platform-Windows%20x64-0078D4.svg)](#what-it-is)
 [![Status](https://img.shields.io/badge/status-early%20development-orange.svg)](#what-it-is)
@@ -25,9 +25,7 @@ compatibility runtime. Play launches **`guest_core.exe`**.
 
 ## Game compatibility
 
-How far titles get right now (**0–100%** usability).
-
-<img src="compat/board.svg" width="420" alt="BobaStation game compatibility" />
+<img src="compat/game-compat.svg" width="520" alt="BobaStation game compatibility" />
 
 ## guest_core
 
