@@ -25,7 +25,7 @@ compatibility runtime. Play launches **`guest_core.exe`**.
 
 ## Game compatibility
 
-<img src="compat/game-compat-board-2026-07-20.svg" width="520" alt="BobaStation game compatibility board" />
+<img src="compat/game-compat.svg" width="520" alt="BobaStation game compatibility board" />
 
 ## guest_core
 
